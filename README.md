@@ -1,2 +1,5 @@
-1. day
-2. dan2
+2/9/2025
+  Luka:
+  -Naložil GIT in se pridružil našemu skupnemu projektu
+  Milher:
+  Lovro:
