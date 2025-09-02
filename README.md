@@ -1,5 +1,1 @@
-2/9/2025
-  Luka:
-  -Naložil GIT in se pridružil našemu skupnemu projektu
-  Milher:
-  Lovro:
+
