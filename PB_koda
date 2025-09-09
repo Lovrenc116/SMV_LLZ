@@ -1,0 +1,121 @@
+-- Table: ADMINISTRATOR
+CREATE TABLE ADMINISTRATOR (
+    ID_ADMIN int PRIMARY KEY,
+    ime nvarchar(50) NULL,
+    priimek nvarchar(50) NULL,
+    starost int,
+    mail nvarchar(50),
+    spol char(1),
+    uporabnisko_ime nvarchar(50),
+    geslo nvarchar(50)
+);
+
+-- Table: PREDMET
+CREATE TABLE PREDMET (
+    ID_PREDMETA int PRIMARY KEY,
+    ime nvarchar(50),
+    kratica nvarchar(50),
+    min_st_ocen int
+);
+
+-- Table: UČITELJ
+CREATE TABLE UČITELJ (
+    ID_UČITELJA int PRIMARY KEY,
+    ime varchar(50) NULL,
+    priimek varchar(50) NULL,
+    starost int,
+    mail nvarchar(50),
+    spol char(1),
+    uporabnisko_ime nvarchar(50),
+    geslo nvarchar(50)
+);
+
+-- Table: RAZRED
+CREATE TABLE RAZRED (
+    ID_RAZRED int PRIMARY KEY,
+    EMŠO int NULL,
+    št_učencev int NULL,
+    KRATICA_imena varchar(5) NULL
+);
+
+-- Table: UČENEC
+CREATE TABLE UČENEC (
+    EMŠO int PRIMARY KEY,
+    ime varchar(50),
+    priimek varchar(50) NULL,
+    izobrazevalna_smer nvarchar(50),
+    starost int,
+    mail nvarchar(50),
+    spol char(1),
+    uporabnisko_ime nvarchar(50),
+    geslo nvarchar(50),
+    ID_RAZRED int NULL,
+    FOREIGN KEY (ID_RAZRED) REFERENCES RAZRED(ID_RAZRED)
+);
+
+-- Table: Uči (Join Table)
+CREATE TABLE Uči (
+    ID_Uči int PRIMARY KEY,
+    ID_UČITELJA int NULL,
+    ID_PREDMETA int NULL,
+    FOREIGN KEY (ID_UČITELJA) REFERENCES UČITELJ(ID_UČITELJA),
+    FOREIGN KEY (ID_PREDMETA) REFERENCES PREDMET(ID_PREDMETA)
+);
+
+-- Table: ŠOLSKA_URA
+CREATE TABLE ŠOLSKA_URA (
+    ID_ŠOLSKEURE int PRIMARY KEY,
+    st_ure int,
+    začetek datetime,
+    konec datetime,
+    opombe nvarchar(100),
+    ID_RAZRED int NULL,
+    ID_Uči int NULL,
+    FOREIGN KEY (ID_RAZRED) REFERENCES RAZRED(ID_RAZRED),
+    FOREIGN KEY (ID_Uči) REFERENCES Uči(ID_Uči)
+);
+
+-- Table: OCENA
+CREATE TABLE OCENA (
+    ID_OCENE int PRIMARY KEY,
+    ocena int,
+    opombe nvarchar(100),
+    EMŠO int NULL,
+    ID_ŠOLSKEURE int NULL,
+    FOREIGN KEY (EMŠO) REFERENCES UČENEC(EMŠO),
+    FOREIGN KEY (ID_ŠOLSKEURE) REFERENCES ŠOLSKA_URA(ID_ŠOLSKEURE)
+);
+
+-- Table: Naloge
+CREATE TABLE Naloge (
+    ID_naloge int PRIMARY KEY,
+    naslov nvarchar(50) NULL,
+    opis nvarchar(250) NULL,
+    URL nvarchar(100) NULL,
+    datum_objave datetime,
+    datum_oddaje datetime,
+    ID_Uči int,
+    EMŠO int,
+    FOREIGN KEY (ID_Uči) REFERENCES Uči(ID_Uči),
+    FOREIGN KEY (EMŠO) REFERENCES UČENEC(EMŠO)
+);
+
+-- Table: Gradivo
+CREATE TABLE Gradivo (
+    ID_gradivo int PRIMARY KEY,
+    naslov nvarchar(50) NULL,
+    opis nvarchar(250) NULL,
+    URL nvarchar(100) NULL,
+    datum_objave datetime,
+    ID_Uči int NULL,
+    FOREIGN KEY (ID_Uči) REFERENCES Uči(ID_Uči)
+);
+
+-- Table: Učenec_predmet (Join Table)
+CREATE TABLE Učenec_predmet (
+    ID_up int PRIMARY KEY,
+    EMŠO int,
+    ID_PREDMETA int,
+    FOREIGN KEY (EMŠO) REFERENCES UČENEC(EMŠO),
+    FOREIGN KEY (ID_PREDMETA) REFERENCES PREDMET(ID_PREDMETA)
+);
