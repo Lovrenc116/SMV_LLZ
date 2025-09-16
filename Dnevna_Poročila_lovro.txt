@@ -1,0 +1,9 @@
+2.9
+-Ustvaril repozitorij in dodal luka in žiga
+-začel designati bazo
+-ustvaril potrebne datoteke v repozitoriju
+
+9.9
+-designal bazo do konca
+-ustvaril ER diagram
+-forward engineer
