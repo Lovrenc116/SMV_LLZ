@@ -4,6 +4,9 @@
 -ustvaril potrebne datoteke v repozitoriju
 
 9.9
--designal bazo do konca
+-z lukom designal bazo do konca
 -ustvaril ER diagram
 -forward engineer
+
+16.9
+-
