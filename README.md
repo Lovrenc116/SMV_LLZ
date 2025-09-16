@@ -1,1 +1,1 @@
-SMV projekt(LUKA, LOVRO,                                            ZIGA)
+SMV projekt(LUKA, LOVRO, ZIGA)
