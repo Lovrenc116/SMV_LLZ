@@ -10,4 +10,4 @@
 
 16.9
 -danes sem imel tehnične težave saj se mi vb ni hotel odpreti ampak sem po 30min odpravil napako (sovražim odpravljati ubuntu probleme sploh pa ko ima mašina 3fps)
-
+-posodobil profil na github
