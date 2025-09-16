@@ -1,1 +1,1 @@
-SMV projekt(LUKAŠPUKA, LOVROJEDEC, ZIGAMIGA)
+SMV projekt(LUKA, LOVRO, ZIG(ne zsluži si A)
