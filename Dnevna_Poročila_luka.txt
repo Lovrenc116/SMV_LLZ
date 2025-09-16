@@ -4,4 +4,4 @@
 -Načrtoval PB, da ga bom poslal Lovrotu za pomoč ko bo delal PB
 
  9/9/2025
- -Dokončal PB z Lovrotom, z skico, in celotno SQL kodo
+ -Dokončal PB z Lovrotom, z skico(ER), in celotno SQL kodo
