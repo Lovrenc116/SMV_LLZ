@@ -1,4 +1,4 @@
--- Table: ADMINISTRATOR
+--ADMINISTRATOR
 CREATE TABLE ADMINISTRATOR (
     ID_ADMIN int PRIMARY KEY,
     ime nvarchar(50) NULL,
@@ -10,7 +10,7 @@ CREATE TABLE ADMINISTRATOR (
     geslo nvarchar(50)
 );
 
--- Table: PREDMET
+--PREDMET
 CREATE TABLE PREDMET (
     ID_PREDMETA int PRIMARY KEY,
     ime nvarchar(50),
@@ -18,7 +18,7 @@ CREATE TABLE PREDMET (
     min_st_ocen int
 );
 
--- Table: UČITELJ
+--UČITELJ
 CREATE TABLE UČITELJ (
     ID_UČITELJA int PRIMARY KEY,
     ime varchar(50) NULL,
@@ -30,7 +30,7 @@ CREATE TABLE UČITELJ (
     geslo nvarchar(50)
 );
 
--- Table: RAZRED
+--RAZRED
 CREATE TABLE RAZRED (
     ID_RAZRED int PRIMARY KEY,
     EMŠO int NULL,
@@ -38,7 +38,7 @@ CREATE TABLE RAZRED (
     KRATICA_imena varchar(5) NULL
 );
 
--- Table: UČENEC
+--UČENEC
 CREATE TABLE UČENEC (
     EMŠO int PRIMARY KEY,
     ime varchar(50),
@@ -53,7 +53,7 @@ CREATE TABLE UČENEC (
     FOREIGN KEY (ID_RAZRED) REFERENCES RAZRED(ID_RAZRED)
 );
 
--- Table: Uči (Join Table)
+--Uči (Join Table)
 CREATE TABLE Uči (
     ID_Uči int PRIMARY KEY,
     ID_UČITELJA int NULL,
@@ -62,7 +62,7 @@ CREATE TABLE Uči (
     FOREIGN KEY (ID_PREDMETA) REFERENCES PREDMET(ID_PREDMETA)
 );
 
--- Table: ŠOLSKA_URA
+--ŠOLSKA_URA
 CREATE TABLE ŠOLSKA_URA (
     ID_ŠOLSKEURE int PRIMARY KEY,
     st_ure int,
@@ -75,7 +75,7 @@ CREATE TABLE ŠOLSKA_URA (
     FOREIGN KEY (ID_Uči) REFERENCES Uči(ID_Uči)
 );
 
--- Table: OCENA
+--OCENA
 CREATE TABLE OCENA (
     ID_OCENE int PRIMARY KEY,
     ocena int,
@@ -86,7 +86,7 @@ CREATE TABLE OCENA (
     FOREIGN KEY (ID_ŠOLSKEURE) REFERENCES ŠOLSKA_URA(ID_ŠOLSKEURE)
 );
 
--- Table: Naloge
+--Naloge
 CREATE TABLE Naloge (
     ID_naloge int PRIMARY KEY,
     naslov nvarchar(50) NULL,
@@ -100,7 +100,7 @@ CREATE TABLE Naloge (
     FOREIGN KEY (EMŠO) REFERENCES UČENEC(EMŠO)
 );
 
--- Table: Gradivo
+--Gradivo
 CREATE TABLE Gradivo (
     ID_gradivo int PRIMARY KEY,
     naslov nvarchar(50) NULL,
@@ -111,7 +111,7 @@ CREATE TABLE Gradivo (
     FOREIGN KEY (ID_Uči) REFERENCES Uči(ID_Uči)
 );
 
--- Table: Učenec_predmet (Join Table)
+--Učenec_predmet (Join Table)
 CREATE TABLE Učenec_predmet (
     ID_up int PRIMARY KEY,
     EMŠO int,
