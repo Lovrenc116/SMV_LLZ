@@ -8,4 +8,7 @@ Drugi teden sem se lotil izdelave login page in sem naredil podatkovno bazo za l
 
 
 Tretji teden:
+tretji teden sem delal na front endu. nekaj sem naredil ampak mi nii tudi čisto delalo potem sam naredil podatkvno bazo z Lukatom v phpmyadmin in jo probal povezati z spletno ućilnico
 
+četrti teden:
+sem probal povezati z backendom zelo dolgo sem se matral ker nekaj ni šlo potem sem naredil in je delaolo kar vredu
