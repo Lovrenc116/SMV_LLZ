@@ -1,0 +1,16 @@
+This folder stores uploaded files for gradiva and naloge. Ensure PHP has write permissions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
