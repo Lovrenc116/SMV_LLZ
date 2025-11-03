@@ -1,0 +1,999 @@
+[30-Sep-2025 09:19:00 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\login.php(19): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:20:35 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\login.php(19): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:21:59 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\login.php(19): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:22:32 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\login.php(19): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:24:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:24:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:24:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:24:55 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:24:55 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:24:55 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:25:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:25:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:25:53 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:25:53 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:26:42 Europe/Berlin] LOGIN_ERROR: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica'
+[30-Sep-2025 09:26:53 Europe/Berlin] LOGIN_ERROR: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica'
+[30-Sep-2025 09:29:10 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:29:10 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:29:10 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:19 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:19 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:19 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:19 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:19 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:19 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:56:20 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:57:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:57:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 09:57:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:07 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:08 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:13 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:13 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:26 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:26 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:00:26 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:53 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:53 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:53 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:01:54 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:02:15 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:02:15 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:06:44 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:06:44 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:06:44 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:07:55 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:07:55 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:08:11 Europe/Berlin] LOGIN_ERROR: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica'
+[30-Sep-2025 10:12:39 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:12:39 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:12:39 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:12:51 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:12:51 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:13:29 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[30-Sep-2025 10:13:29 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1049] Unknown database 'spletna_ucilnica' in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:27
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(27): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 27
+[21-Oct-2025 08:47:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[21-Oct-2025 08:47:47 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[21-Oct-2025 08:47:51 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[21-Oct-2025 08:47:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[21-Oct-2025 08:47:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[21-Oct-2025 08:47:56 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[21-Oct-2025 08:47:57 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 08:48:00 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[21-Oct-2025 08:48:00 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[21-Oct-2025 08:48:01 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 08:48:04 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[21-Oct-2025 08:48:04 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[21-Oct-2025 08:48:06 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[21-Oct-2025 08:48:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[21-Oct-2025 08:48:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[21-Oct-2025 08:48:08 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[21-Oct-2025 08:50:37 Europe/Berlin] UCITELJ_POST_ERROR: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away
+[21-Oct-2025 08:50:45 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:33
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(33): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 33
+[21-Oct-2025 08:50:53 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:33
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(33): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 33
+[21-Oct-2025 08:51:02 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:33
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(33): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 33
+[21-Oct-2025 08:51:10 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:33
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(33): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 33
+[21-Oct-2025 08:51:18 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:33
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(33): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 33
+[21-Oct-2025 08:51:26 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:33
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(33): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 33
+[21-Oct-2025 08:51:35 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:33
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(33): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 33
+[21-Oct-2025 08:51:52 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:33
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(33): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 33
+[21-Oct-2025 08:52:00 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:33
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(33): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 33
+[21-Oct-2025 08:52:17 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:33
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(33): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 33
+[21-Oct-2025 08:52:25 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:33
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(33): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\predmet.php(4): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 33
+[21-Oct-2025 08:52:33 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:33
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(33): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 33
+[21-Oct-2025 08:52:41 Europe/Berlin] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php:33
+Stack trace:
+#0 C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php(33): PDO->__construct('mysql:host=loca...', 'root', '', Array)
+#1 C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec.php(3): get_db()
+#2 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\db.php on line 33
+[21-Oct-2025 08:57:50 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 08:57:52 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 08:59:38 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 08:59:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 4
+[21-Oct-2025 08:59:47 Europe/Berlin] GRADIVA_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'g.naziv_gradiva' in 'field list'
+[21-Oct-2025 08:59:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 08:59:58 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 09:00:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 09:02:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[21-Oct-2025 09:02:47 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[21-Oct-2025 09:03:03 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[21-Oct-2025 09:03:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[21-Oct-2025 09:03:05 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:03:23 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[21-Oct-2025 09:03:23 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[21-Oct-2025 09:03:28 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:03:33 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[21-Oct-2025 09:03:33 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[21-Oct-2025 09:03:35 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:03:42 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[21-Oct-2025 09:03:42 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[21-Oct-2025 09:04:32 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[21-Oct-2025 09:04:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[21-Oct-2025 09:04:35 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[21-Oct-2025 09:04:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[21-Oct-2025 09:04:38 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[21-Oct-2025 09:04:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[21-Oct-2025 09:04:53 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:05:03 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[21-Oct-2025 09:05:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[21-Oct-2025 09:05:05 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[21-Oct-2025 09:05:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[21-Oct-2025 09:05:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[21-Oct-2025 09:05:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[21-Oct-2025 09:07:54 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:08:10 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:08:16 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:08:18 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:08:20 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:08:20 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[21-Oct-2025 09:08:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[21-Oct-2025 09:08:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:08:32 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[21-Oct-2025 09:08:32 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[21-Oct-2025 09:08:36 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[21-Oct-2025 09:08:36 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[21-Oct-2025 09:08:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:13:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:13:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[21-Oct-2025 09:13:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[21-Oct-2025 09:13:11 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:13:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:13:19 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[21-Oct-2025 09:13:19 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[21-Oct-2025 09:13:21 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:19:07 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[21-Oct-2025 09:19:07 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[21-Oct-2025 09:19:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:19:18 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[21-Oct-2025 09:19:18 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[21-Oct-2025 09:19:19 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:19:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:19:24 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[21-Oct-2025 09:19:24 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[21-Oct-2025 09:19:25 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:19:27 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:19:28 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[21-Oct-2025 09:19:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[21-Oct-2025 09:19:30 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:19:30 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:19:32 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:19:34 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:19:37 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:19:39 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[21-Oct-2025 09:20:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 09:20:15 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 09:20:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 09:20:42 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 4
+[21-Oct-2025 09:20:42 Europe/Berlin] GRADIVA_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'g.naziv_gradiva' in 'field list'
+[21-Oct-2025 09:20:46 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 09:21:44 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 09:21:53 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 09:22:15 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 09:22:25 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 09:22:31 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[21-Oct-2025 09:22:35 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[29-Oct-2025 13:13:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[29-Oct-2025 13:13:40 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[29-Oct-2025 13:13:43 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[29-Oct-2025 13:13:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[29-Oct-2025 13:13:45 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[29-Oct-2025 13:13:50 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[29-Oct-2025 13:14:07 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[29-Oct-2025 13:14:07 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[29-Oct-2025 13:14:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[29-Oct-2025 13:14:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[29-Oct-2025 13:14:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Cannot unpack array with string keys in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php:23
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 23
+[02-Nov-2025 19:18:49 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:18:57 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:19:02 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:19:14 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:19:14 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[02-Nov-2025 19:19:14 Europe/Berlin] NALOGE_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:19:18 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:19:25 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:19:31 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[02-Nov-2025 19:19:59 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[02-Nov-2025 19:20:58 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[02-Nov-2025 19:20:58 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:21:01 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[02-Nov-2025 19:21:03 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:21:05 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:21:06 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:21:07 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[02-Nov-2025 19:21:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[02-Nov-2025 19:21:08 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:21:10 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:21:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:22:55 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:22:57 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:22:58 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:23:14 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:26:03 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[02-Nov-2025 19:26:03 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:32:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[02-Nov-2025 19:32:12 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:32:15 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:32:18 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:34:15 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:34:17 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[02-Nov-2025 19:34:17 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[02-Nov-2025 19:34:17 Europe/Berlin] NALOGE_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:34:46 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:34:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:34:50 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:34:53 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:34:55 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[02-Nov-2025 19:34:55 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:35:15 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:35:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:35:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[02-Nov-2025 19:35:22 Europe/Berlin] NALOGE_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:35:41 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[02-Nov-2025 19:35:41 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:35:42 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:35:44 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[02-Nov-2025 19:35:44 Europe/Berlin] NALOGE_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:35:44 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[02-Nov-2025 19:35:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_check.php on line 4
+[02-Nov-2025 19:35:56 Europe/Berlin] NALOGE_CHECK_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'naslov_naloge' in 'where clause'
+[02-Nov-2025 19:35:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_oddaj.php on line 4
+[02-Nov-2025 19:36:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_check.php on line 4
+[02-Nov-2025 19:36:08 Europe/Berlin] NALOGE_CHECK_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'naslov_naloge' in 'where clause'
+[02-Nov-2025 19:36:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_oddaj.php on line 4
+[02-Nov-2025 19:36:28 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_check.php on line 4
+[02-Nov-2025 19:36:28 Europe/Berlin] NALOGE_CHECK_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'naslov_naloge' in 'where clause'
+[02-Nov-2025 19:36:28 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_oddaj.php on line 4
+[02-Nov-2025 19:37:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[02-Nov-2025 19:37:13 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:38:10 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[02-Nov-2025 19:38:10 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:38:14 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:38:16 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:38:17 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[02-Nov-2025 19:38:17 Europe/Berlin] NALOGE_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:38:17 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[02-Nov-2025 19:38:27 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_check.php on line 4
+[02-Nov-2025 19:38:27 Europe/Berlin] NALOGE_CHECK_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'naslov_naloge' in 'where clause'
+[02-Nov-2025 19:38:27 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_oddaj.php on line 4
+[02-Nov-2025 19:38:27 Europe/Berlin] NALOGE_ODDAJ_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'naslov_naloge' in 'where clause'
+[02-Nov-2025 19:38:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_check.php on line 4
+[02-Nov-2025 19:38:40 Europe/Berlin] NALOGE_CHECK_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'naslov_naloge' in 'where clause'
+[02-Nov-2025 19:38:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_oddaj.php on line 4
+[02-Nov-2025 19:38:40 Europe/Berlin] NALOGE_ODDAJ_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'naslov_naloge' in 'where clause'
+[02-Nov-2025 19:38:44 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:38:45 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[02-Nov-2025 19:38:49 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[02-Nov-2025 19:38:49 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:38:50 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[02-Nov-2025 19:38:51 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:38:52 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:38:55 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[02-Nov-2025 19:38:55 Europe/Berlin] NALOGE_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:38:55 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[02-Nov-2025 19:39:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_check.php on line 4
+[02-Nov-2025 19:39:08 Europe/Berlin] NALOGE_CHECK_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'naslov_naloge' in 'where clause'
+[02-Nov-2025 19:39:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_oddaj.php on line 4
+[02-Nov-2025 19:39:08 Europe/Berlin] NALOGE_ODDAJ_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'naslov_naloge' in 'where clause'
+[02-Nov-2025 19:39:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:39:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:39:48 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_profil.php on line 4
+[02-Nov-2025 19:39:49 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[02-Nov-2025 19:39:49 Europe/Berlin] UCENEC_AKTIVNOSTI_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:39:50 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:39:51 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:40:44 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:40:45 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[02-Nov-2025 19:40:45 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[02-Nov-2025 19:40:45 Europe/Berlin] NALOGE_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.naslov_naloge' in 'field list'
+[02-Nov-2025 19:40:52 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_check.php on line 4
+[02-Nov-2025 19:40:52 Europe/Berlin] NALOGE_CHECK_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'naslov_naloge' in 'where clause'
+[02-Nov-2025 19:40:52 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_oddaj.php on line 4
+[02-Nov-2025 19:40:52 Europe/Berlin] NALOGE_ODDAJ_DB_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'naslov_naloge' in 'where clause'
+[02-Nov-2025 19:42:01 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:42:03 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[02-Nov-2025 19:42:03 Europe/Berlin] NALOGE_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'n.opis' in 'field list'
+[02-Nov-2025 19:42:03 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[02-Nov-2025 19:42:07 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_check.php on line 4
+[02-Nov-2025 19:42:07 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_oddaj.php on line 4
+[02-Nov-2025 19:42:07 Europe/Berlin] NALOGE_ODDAJ_DB_ERROR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'opis' in 'field list'
+[02-Nov-2025 19:43:48 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[02-Nov-2025 19:43:49 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[02-Nov-2025 19:43:49 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[02-Nov-2025 19:43:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_check.php on line 4
+[02-Nov-2025 19:43:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_oddaj.php on line 4
+[02-Nov-2025 19:43:59 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[02-Nov-2025 19:43:59 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[02-Nov-2025 19:44:21 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:44:26 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:44:26 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:44:27 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[02-Nov-2025 19:54:33 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_pregled.php on line 4
+[02-Nov-2025 19:54:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:54:56 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[02-Nov-2025 19:54:58 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:54:58 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 19:54:58 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[02-Nov-2025 20:05:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_pregled.php on line 4
+[02-Nov-2025 20:07:14 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_pregled.php on line 4
+[02-Nov-2025 20:07:23 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 20:07:33 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[02-Nov-2025 20:07:49 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[02-Nov-2025 20:09:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_pregled.php on line 4
+[02-Nov-2025 20:45:20 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[02-Nov-2025 20:45:24 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_pregled.php on line 4
+[03-Nov-2025 14:19:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_pregled.php on line 4
+[03-Nov-2025 14:19:14 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_pregled.php on line 4
+[03-Nov-2025 14:21:59 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 14:22:04 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_pregled.php on line 4
+[03-Nov-2025 14:22:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 14:22:11 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 14:22:11 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[03-Nov-2025 14:22:17 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 14:22:19 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[03-Nov-2025 14:22:23 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[03-Nov-2025 14:22:26 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[03-Nov-2025 14:22:35 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[03-Nov-2025 14:22:50 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[03-Nov-2025 14:23:18 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[03-Nov-2025 14:23:25 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 14:23:32 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 14:23:34 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[03-Nov-2025 14:23:34 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[03-Nov-2025 14:23:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[03-Nov-2025 15:48:16 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 15:48:18 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[03-Nov-2025 15:48:18 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[03-Nov-2025 15:48:32 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_check.php on line 4
+[03-Nov-2025 15:48:33 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_oddaj.php on line 4
+[03-Nov-2025 15:48:34 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[03-Nov-2025 15:48:34 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[03-Nov-2025 15:48:51 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_check.php on line 4
+[03-Nov-2025 15:48:51 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge_oddaj.php on line 4
+[03-Nov-2025 15:48:52 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[03-Nov-2025 15:48:52 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[03-Nov-2025 15:48:58 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 15:49:02 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 15:49:03 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 15:49:04 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 15:49:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 15:49:25 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_pregled.php on line 4
+[03-Nov-2025 15:49:26 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 15:49:28 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 15:49:28 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[03-Nov-2025 15:49:35 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_pregled.php on line 4
+[03-Nov-2025 15:49:37 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 15:49:37 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[03-Nov-2025 15:52:05 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_aktivnosti.php on line 4
+[03-Nov-2025 15:52:15 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 15:52:19 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 15:52:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\naloge.php on line 4
+[03-Nov-2025 15:52:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran – kopija\api\gradiva.php on line 8
+[03-Nov-2025 20:13:08 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:14:01 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:14:01 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\naloge.php on line 4
+[03-Nov-2025 20:14:04 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:14:06 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_pregled.php on line 4
+[03-Nov-2025 20:14:16 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:14:20 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:14:21 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\naloge.php on line 4
+[03-Nov-2025 20:14:24 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:14:24 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\naloge.php on line 4
+[03-Nov-2025 20:14:30 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:14:30 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\naloge.php on line 4
+[03-Nov-2025 20:14:31 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:14:32 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_pregled.php on line 4
+[03-Nov-2025 20:14:34 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_pregled.php on line 4
+[03-Nov-2025 20:14:35 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:14:38 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:15:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_aktivnosti.php on line 4
+[03-Nov-2025 20:15:11 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:15:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:15:14 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\gradiva.php on line 8
+[03-Nov-2025 20:15:14 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\naloge.php on line 4
+[03-Nov-2025 20:15:38 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:15:39 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_profil.php on line 4
+[03-Nov-2025 20:15:42 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_aktivnosti.php on line 4
+[03-Nov-2025 20:15:43 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_profil.php on line 4
+[03-Nov-2025 20:15:51 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:15:51 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:15:53 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:15:53 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:15:57 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:28:10 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_aktivnosti.php on line 4
+[03-Nov-2025 20:28:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_profil.php on line 4
+[03-Nov-2025 20:28:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:28:13 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:28:17 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:28:18 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_profil.php on line 4
+[03-Nov-2025 20:28:19 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_aktivnosti.php on line 4
+[03-Nov-2025 20:28:19 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_aktivnosti.php on line 4
+[03-Nov-2025 20:28:19 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_aktivnosti.php on line 4
+[03-Nov-2025 20:28:20 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:28:20 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:28:21 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_profil.php on line 4
+[03-Nov-2025 20:28:21 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_aktivnosti.php on line 4
+[03-Nov-2025 20:28:21 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_profil.php on line 4
+[03-Nov-2025 20:28:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:28:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:28:44 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_aktivnosti.php on line 4
+[03-Nov-2025 20:28:45 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:28:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucenec_predmeti.php on line 4
+[03-Nov-2025 20:28:48 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\gradiva.php on line 8
+[03-Nov-2025 20:28:48 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\naloge.php on line 4
+[03-Nov-2025 20:29:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\naloge_check.php on line 4
+[03-Nov-2025 20:29:09 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\naloge_oddaj.php on line 4
+[03-Nov-2025 20:29:10 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\naloge.php on line 4
+[03-Nov-2025 20:29:10 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\gradiva.php on line 8
+[03-Nov-2025 20:29:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:29:52 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:29:52 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\naloge.php on line 4
+[03-Nov-2025 20:30:22 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_pregled.php on line 4
+[03-Nov-2025 20:30:38 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:30:39 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:30:39 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\naloge.php on line 4
+[03-Nov-2025 20:30:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:30:40 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\naloge.php on line 4
+[03-Nov-2025 20:30:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:30:47 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\naloge.php on line 4
+[03-Nov-2025 20:31:14 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\ucitelj_predmeti.php on line 4
+[03-Nov-2025 20:31:21 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\gradiva.php on line 8
+[03-Nov-2025 20:31:28 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\LLZspletnaStran\api\gradiva.php on line 8
