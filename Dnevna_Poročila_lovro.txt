@@ -13,6 +13,10 @@
 -posodobil profil na github
 -postavil domeno
 
-3.9
--postavil server do konca ampak imam problem saj ne vleče podatkov iz github
--domena deluje ampak se noče povezati z bazo
+14.10
+-bil sem bolan in delam od doma
+-dodal bazo v domeno ampak ne dela in moram poiskati rešitev
+
+3.11
+-postavil server do konca ampak imam problem saj ne vleče podatkov iz github drugače pa je konfiguriran
+-domena deluje in ima bazo in spletno stran ampak ne ob zagonu ne prepozna baze ki jo ima
