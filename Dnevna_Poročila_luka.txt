@@ -17,7 +17,12 @@
 
 6/10/2025
 -Login, register
--vsaka funkcija posebej
+-Vsaka funkcija posebej
 
 13/10/2025
--finish
+-Finishirali
+-Testirali spletno stran
+
+20/10/2025
+-Popravljali napake
+-
