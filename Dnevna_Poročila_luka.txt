@@ -4,25 +4,26 @@
 -Načrtoval PB, da ga bom poslal Lovrotu za pomoč ko bo delal PB
 
  9/9/2025
- -Dokončal PB z Lovrotom
- -Ustvaril skico(ER), in celotno SQL kodo
+Najprej sem si ustvaril svoj GitHub profil in namestil program GIT, da sem se lahko pridružil našemu skupnemu projektu. Tako smo lahko vsi člani ekipe sodelovali pri razvoju kode in imeli centralno shrambo za projekt.
+V tem času sem tudi načrtoval podatkovno bazo (PB), pripravil njen osnutek in ga nameraval poslati Lovrotu, da bi mi pomagal pri dokončni izvedbi.
 
  16/9/2025
- -Načrtoval spletno stran
- -Razmišljal povezave med PB in spletno stranjo
+Skupaj z Lovrotom sva dokončala podatkovno bazo.
+Ustvaril sem skico (ER diagram) in pripravil celotno SQL kodo za strukturo podatkovne baze, vključno z vsemi potrebnimi tabelami, ključi in relacijami.
+Poleg tega sem začel načrtovati spletno stran in razmišljati o tem, kako bo povezana s podatkovno bazo – predvsem, kako bodo podatki vpisani, prikazani in obdelani znotraj aplikacije.
 
 23/9/2025
--Vpisoval podatke v PB
--Začel pomagati pri pisanju spletne strani
+V tem tednu sem vpisoval testne podatke v podatkovno bazo, da bi lahko preveril delovanje povezav in funkcionalnosti.
+Poleg tega sem začel pomagati pri pisanju spletne strani, predvsem pri osnovnih delih front-enda in povezovanju s podatkovno bazo.
 
 6/10/2025
--Login, register
--Vsaka funkcija posebej
+Osredotočil sem se na sistem prijave in registracije uporabnikov (login in register).
+Vsako funkcijo sem pripravil posebej in poskrbel, da so bile pravilno povezane s podatkovno bazo, da so se podatki o uporabnikih pravilno shranjevali in preverjali.
 
 13/10/2025
--Finishirali
--Testirali spletno stran
+V tem tednu smo projekt dokončali – vse glavne funkcije spletne strani so bile končane.
+Skupajsmo testirali spletno stran, preverjali delovanje posameznih funkcij in iskali morebitne napake v delovanju ali prikazu.
 
 20/10/2025
--Popravljali napake
--
+Zadnji teden je bil namenjen popravljanju napak in izboljšavam uporabniške izkušnje.
+Odpravili smo manjše tehnične težave
