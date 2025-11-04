@@ -10,3 +10,14 @@
  16/9/2025
  -Načrtoval spletno stran
  -Razmišljal povezave med PB in spletno stranjo
+
+23/9/2025
+-Vpisoval podatke v PB
+-Začel pomagati pri pisanju spletne strani
+
+6/10/2025
+-Login, register
+-vsaka funkcija posebej
+
+13/10/2025
+-finish
